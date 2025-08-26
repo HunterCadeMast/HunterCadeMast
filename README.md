@@ -96,6 +96,9 @@
   <a href="https://stackoverflow.com/users/31358992/hunter-mast" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://leetcode.com/u/huntercademast/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.js&logo=leetcode&label=&color=32CD32&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###
