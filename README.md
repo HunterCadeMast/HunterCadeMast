@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Hunter Mast is a first-generation Computer Science graduate passionate about systems programming, complex algorithms, and performance optimization. He has hands-on industry experience in embedded systems and UI development, along with graduate-level coursework in compiler construction, machine learning, quantum computing, augmented reality, and other emerging technologies. He thrives on bridging theory and practice to transform advanced academic knowledge into real-world solutions, while bringing adaptability, problem-solving, and a commitment to excellence to both collaborative and independent projects.</p>
+<p align="left">Hunter Mast is a first-generation Computer Science graduate passionate about systems programming, complex algorithms, and performance optimization. He has hands-on industry experience in embedded systems and UI development, along with graduate-level coursework in compiler construction, machine learning, quantum computing, augmented reality, and other emerging technologies. He thrives on bridging theory and practice to transform advanced academic knowledge into real-world solutions.</p>
 
 ###
 
