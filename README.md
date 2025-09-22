@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/huntercademast/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://app.joinhandshake.com/profiles/qvxchf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Handshake&logo=handshake&label=&color=7EBD01&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="handshake logo"  />
+  </a>
   <a href="https://stackoverflow.com/users/31358992/hunter-mast" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
   <a href="https://leetcode.com/u/huntercademast/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=C7EA46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=EACE09&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
