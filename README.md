@@ -29,7 +29,7 @@
 ###
 
 <h2 align="left">About Me ✨</h2>
-<p align="left">Hunter Mast is a first-generation Computer Science graduate passionate about systems programming, complex algorithms, and performance optimization. With skills in Python, C++, Rust, Go, JavaScript, and SQL, he has hands-on industry experience in embedded systems, API development, real-time control systems, and user-interface development. Along with real-world experience, he has knowledge in graduate-level coursework in compiler construction, machine learning, quantum computing, augmented reality, and other emerging technologies. He thrives on bridging theory and practice to transform advanced academic knowledge into real-world solutions. While collaborative and detail-oriented, he excels at transforming advanced concepts into results.</p>
+<p align="left">Software engineer with experience building real-time and distributed systems across both embedded and web environments. Background includes CAN bus integrations, backend API development, and performance-focused application design using C++, Python, and JavaScript. Experienced in developing scalable systems with asynchronous processing, system integrations, and low-level optimization, with a strong foundation in computer science fundamentals such as compilers, algorithms, and system design. Interested in roles involving backend systems, embedded software, or performance-critical applications.</p>
 
 ###
 
